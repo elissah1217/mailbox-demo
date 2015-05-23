@@ -8,7 +8,7 @@ Completed stories:
 
 Required:
  * [x] Background changes color depending on where user drags the message to Upon releasing the message:
- ** [x] if user didn’t drag far enough, the message returns to its original position
+## * [x] if user didn’t drag far enough, the message returns to its original position
  * [x] Display loading screen upon signing in
  * [x] Show error alert when wrong password/email combo is entered
  * [x] Paging between the Tutorial screen
