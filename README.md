@@ -8,26 +8,20 @@ Completed stories:
 
 Required:
  * [x] Background changes color depending on where user drags the message to Upon releasing the message:
-## * [x] if user didn’t drag far enough, the message returns to its original position
- * [x] Display loading screen upon signing in
- * [x] Show error alert when wrong password/email combo is entered
- * [x] Paging between the Tutorial screen
- * [x] User can scroll through the image tiles and view the Conversation and Setting screen
- * [x] User can dismiss Setting view and log out
+ * [x] If user didn’t drag far enough, the message returns to its original position
+ * [x] If user choose to archive or delete the message, the message is removed from list
+ * [x] If user chooses the reschedule or list option, the corresponding windows popups
+ * [x] Tapping on the reschedule and list popup to close the window
  
  
  Optional:
- * [x] On the initial screen, photo tiles move as user scrolls down
- * [x] User can pull the keyboard down to close keyboard
- * [x] Sign in/Create form scales up and fades in when user enters the screen
- * [x] When creating password, the password strength is updated depending on the number of characters user enters
- * [x] User can go through the “I forgot password” workflow and request password
- * [x] User can check the Terms checkbox and view the Terms by clicking on the text
- * [x] In the Tutorial screen, the dot is updated as user pages
- * [x] Upon reaching 4th Tutorial screen, the “Take Carousel for a Spin” button fades in
- * [x] User can dismiss the “Learn more about Carousel” banner
- * [x] User can view the event. And upon completion of the event, the check box is checked
- * [x] When all the events are completed, the banner is dismissed
+ * [x] Panning from the edge to reveal menu
+ * [x] Menu will animate back or opens up depend on how much the user reveals the menu upon releasing the drag
+ * [x] Opens the Compose view upon tapping on the compose button
+ * [x] Tapping on the segment control to toggle between the Archive, Inbox, and Reschedule view
+ * [x] Shake to undo
+ * [x] When user archive/reschedule a message, the message will be placed in the Archive/Reschedule view, and removed if user shakes to undo
+ 
 
 Walkthrough
 
