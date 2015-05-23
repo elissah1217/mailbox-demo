@@ -14,7 +14,7 @@ Required:
  * [x] Tapping on the reschedule and list popup to close the window
  
  
- Optional:
+Optional:
  * [x] Panning from the edge to reveal menu
  * [x] Menu will animate back or opens up depend on how much the user reveals the menu upon releasing the drag
  * [x] Opens the Compose view upon tapping on the compose button
